@@ -844,7 +844,7 @@
 
     <asset>
         <!-- pick a body mesh below -->
-        <mesh file="../meshes/human_lowpoly_nohand.stl" name="human_body"/>
+        <mesh file="../meshes/human_lowpoly_norighthand.stl" name="human_body"/>
     </asset>
     <worldbody>
         <geom name="body" type="mesh" mesh="human_body" euler="0 0 3.14" contype="0" conaffinity="0" pos="0.275 0.6 0.0"/>
